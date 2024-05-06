@@ -55,7 +55,7 @@ Installation
 
 <ul>
 <li>
-Clone the repository: git clone https://github.com/.git
+Clone the repository: git clone https://github.com/PoorKiller/MovieAPI.git
 </li>
 <li>
 Install dependencies : `npm install`
